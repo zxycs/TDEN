@@ -3,7 +3,7 @@
 ## Environment
 - Python 3.9
 - PyTorch 2.0.1
-- 
+  
 ## Training
 ### Data Preparation
 - Download the training dataset DF2K ([DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) + [Flickr2K](https://cv.snu.ac.kr/research/EDSR/Flickr2K.tar)) and put them in the folder `./datasets`.
